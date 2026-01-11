@@ -90,7 +90,8 @@ Unauthorized use of the code for commercial purposes is not permitted.
 ---
 
 ## 👤 Author
+[Istiak Alam](https://github.com/Istiaq-Alam), 
 
-Istiak Alam
-Department of Computer Science & Engineering
+Department of Computer Science & Engineering, 
+
 Notre Dame University Bangladesh 
