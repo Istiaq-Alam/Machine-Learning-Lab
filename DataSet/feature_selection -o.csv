@@ -1,0 +1,11 @@
+location ,area ,bedroom ,bathroom,owner ,blodd group
+a,dhaka,3,2,x,o+
+b,dhaka,4,2,y,ab+
+c,khulna,2,2,p,ab-
+d,rajshahi,3,2,q,o+
+e,cumilla,3,1,w,ab+
+f,dhaka,2,1,l,ab-
+g,barishal,2,1,r,o+
+h,natore,2,3,s,o+
+i,khulna,3,3,k,ab+
+j,dhaka,4,2,v,ab-
